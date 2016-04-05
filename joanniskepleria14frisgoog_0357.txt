@@ -1,0 +1,61 @@
+Pars Quarta. capnt xum 353
+
+mate ΒΗ, circulus HK, tangens priorem in Κ. Manifestum est, circulum
+
+HK minorem esse quam DK, et circulum DGR majorem esse quam DK. .
+
+Et quia circulares circumferentiae sunt ad invicem ut earum semidiametri:
+ut igitur BD ad DI et ΒΗ, sic circulus major ΒΟ ad minores ΒΚ et ΚΗ.
+Sed DI est medium arithmeticum inter DB et ΗΒ, quia ΒΙ est dimidium
+ipsius HD. Ergo etiam circulus ΒΚ, tangens minorem et majorem ex eodem'
+Bcentro descriptos, est medinm arithmeticum inter illos circulos, qnos*
+tangit. Quodsi via uvalis continuetur, ex supposito tanget ‚et ipsa'majurem
+ciculum in aphelio D et perihelio R, minorem vero HK in longitudinibus
+mediis, nt ita sit maj0r minori HK, minor majori circulo ΒΒ. Consenta-
+neum igitur est, non longe abesse evalem circumferentiam a longitudine
+annularis circumferentiae ΒΚ. · “
+
+Panlo tamen majorem credere facit haec demonstratio, Sumatur medium
+proportionale inter ΒΗ et BD, quod sit ΒΟ, et centro Β,
+spatio ΒΟ scribatur ΟΡ circulus. ltaque per V. Sphae- ΗΒ· ¹⁰¹·
+roideon Archimedis planities hujus circuli ΟΡ erit aequalis ¹
+planitiei ellipseos, cujus est longior semidiameter BD, bre· E
+' rior BH. At qnia figurarum isuperimetron capacissima est
+circulus, conversim igitur (per communem notitiam) aeque f
+cipacium figurarum brevissima perimetros erit circuli. Cum “’
+erge ellipsis, quae habet semidiametros DB, ΒΗ, et cir· ι,
+culus ΟΡ propositi sint aeque capaces ex jam allegatis, 'r
+circumferentia ellipseos erit longior, qnam circumferentia , ·
+circuli ΟΡ. Est autem ΒΟ insensibili minor quam ID, eo χχχ ,
+quod ΒΟ inter eosdem terminos ponitur esse geometricum ¹'
+medium, ID medium arithmeticum. Per doctrinam euim
+quinti Euclidis, qnia ΒΟ est medium proportionale inter ΗΒ, BD, ut igitur
+ΗΒ ad BD, minor ad majorem, sic ΗΟ excessus mediae ad OD defectum.
+Itaque curn ΗΒ sit minor quam BD, erit et ΗΟ minor quam OD. Ar Bt ,
+est aequalis dimidiae HD, major igitur est ΒΙ quam ΗΟ, minor quam OD.
+· Ad communem ergo minimi circuli HK semidiametrum ΗΒ apponuntur
+inaequalia, nempe minus dimidio ipsius ΒΗ iu ΒΟ, et dimidium ipsius ΒΗ
+inm, ergo major DI quarn ΒΟ. Major igitur ΒΚ circulus quam ΟΡ.
+Id tamen insensibiliter, cum ΒΗ minor sit quarn centesima ipsius DB.
+leque positis his circulis exabundanti aequalibus, et posito, quod ovalis
+sit perfecta ellipsis: erit uvalis circumferentia paulo longior quam circulus
+DK, certe longior quam circulus ΟΡ. Et quia supra cap. XLVII. ΒΗ fuit
+858, qualium DB 100000, dimidium igitur de ΒΗ, 429, auferatur a DB,
+100000, restabit 99571. Ut igitur 100000 ad 99571, sic erit quam pro·
+sime circumferentia circuli ad circumferentiam uvalis quaesitam. Et quia
+circuli circumferentia habet 360⁰, vel 21600⁴ vel 1296000‘⁴, decedet parti-
+cula, quae habet 55601‘ vel 92‘ 40⁰: et semicircnmferentiae uvalis adimenda
+erunt 46¹ 20⁴⁴, aut etiam minus, si ovalis circulum DK, loco mensurae
+consideratumsuperet. Omnino quidem ego nun per demonstrationem, sed
+per alonim laboriosissimum et pertinacissimum inveni defectum semicirculi
+ovalis 45⁴ 45” : ut qualium semicirculus perfectus est 180⁰, talium prelis
+esset 179⁰ tt¹ 15¹⁴.
+
+Et qnia decurtatio haec ovalis circumferentiae necessario aequalis¹
+est contrariae amplificationi opticae (videtur enim haec uvalis, licetbrevior,
+sub amplitudine umen 2 rectorum sive 180⁰ praecise, ettam longa esse
+
+amr-somus g 2³
+
+ 
+
